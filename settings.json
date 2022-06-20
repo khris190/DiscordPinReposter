@@ -1,0 +1,13 @@
+{
+  "hidden": {
+    "TOKEN": "yourToken"
+  },
+  "visible": {
+    "do_delete_pins": false,
+    "do_show_from": true,
+    "do_show_credit": true,
+    "do_show_date": true,
+    "date_format": "%d/%m/%Y, %H:%M:%S",
+    "max_reupload_size": "8M"
+  }
+}
